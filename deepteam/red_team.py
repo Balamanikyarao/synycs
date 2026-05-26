@@ -42,4 +42,4 @@ def red_team(
         ignore_errors=ignore_errors,
         attack_engine=attack_engine,
     )
-    return Norisk_assessment
+    return risk_assessment
